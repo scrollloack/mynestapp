@@ -1,2 +1,3 @@
 # mynestapp
-Nest JS application for practicing Typescript, GraphQL and others.
+
+Nest JS application for practicing Typescript, GraphQL and other.
